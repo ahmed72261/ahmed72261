@@ -3,7 +3,45 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed72261&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed72261" /> </p>
 
-- 🌱 I’m currently learning **various frameworks, courses, and more.**
+## 👋 About Me
+
+I'm Ahmed Mohamed, a computer science graduate with a specialization in data science, analysis, machine learning, and deep learning. I'm passionate about technology and enjoy working on a wide range of projects. 
+
+- 🌱 Currently exploring various frameworks, courses, and technologies.
+- 🔭 Actively contributing to open-source projects.
+- 💡 Always eager to learn and share knowledge.
+- 🚀 Enthusiastic about solving real-world problems using technology.
+- 💬 Let's connect and collaborate on exciting projects!
+
+## 💼 Work
+
+- Data Scientist | Company Name | [Company Website](https://www.companywebsite.com)
+
+## 🌟 Featured Projects
+
+- [Project Name 1](https://github.com/yourusername/project1): A brief description of this project.
+- [Project Name 2](https://github.com/yourusername/project2): A brief description of this project.
+
+## 📚 Skills
+
+- Programming Languages: Python, JavaScript, C++, and more.
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn.
+- Machine Learning: Scikit-Learn, TensorFlow, PyTorch.
+- Frontend Development: React, Vue, HTML, CSS.
+- Backend Development: Node.js, Express, Django.
+- Databases: MongoDB, SQL, Redis.
+- Cloud Services: AWS, Google Cloud, Azure.
+- DevOps: Docker, Kubernetes, Jenkins.
+- Version Control: Git, GitHub.
+
+## 📫 Get in Touch
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- Twitter: [Twitter Profile](https://twitter.com/yourusername)
+- Email: your.email@example.com
+
+Feel free to reach out if you'd like to collaborate, chat about tech, or simply say hello! 😊
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

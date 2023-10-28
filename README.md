@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
-<h3 align="center">I'm a passionate computer science graduate with a specialization in data science, analysis, machine learning, and deep learning. I have a strong background in a variety of programming languages and technologies.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed72261&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed72261" /> </p>
 
 ## 👋 About Me

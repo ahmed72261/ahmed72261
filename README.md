@@ -3,7 +3,11 @@
 ## 👋 About Me
 
 I'm Ahmed Mohamed, a computer science graduate with a specialization in data science, analysis, machine learning, and deep learning. I'm passionate about technology and enjoy working on a wide range of projects. 
-
+- 🎓 Computer Science graduate
+- 💼 Specialized in data science, analysis, machine learning, and deep learning
+- 🚀 Passionate about technology
+- 🌱 Constantly learning and growing
+- 🤖 Love open-source collaboration
 - 🌱 Currently exploring various frameworks, courses, and technologies.
 - 🔭 Actively contributing to open-source projects.
 - 💡 Always eager to learn and share knowledge.
